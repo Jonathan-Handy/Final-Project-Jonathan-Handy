@@ -1,0 +1,7 @@
+﻿  Final Project.cpp
+C:\Users\cornd\Documents\ET 388 Labs\Final Project\Final Project\Final Project.cpp(203,41): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\cornd\Documents\ET 388 Labs\Final Project\Final Project\Final Project.cpp(203,41): warning C4267:         with
+C:\Users\cornd\Documents\ET 388 Labs\Final Project\Final Project\Final Project.cpp(203,41): warning C4267:         [
+C:\Users\cornd\Documents\ET 388 Labs\Final Project\Final Project\Final Project.cpp(203,41): warning C4267:             _Ty=short
+C:\Users\cornd\Documents\ET 388 Labs\Final Project\Final Project\Final Project.cpp(203,41): warning C4267:         ]
+  Final Project.vcxproj -> C:\Users\cornd\Documents\ET 388 Labs\Final Project\Final Project\x64\Debug\Final Project.exe
