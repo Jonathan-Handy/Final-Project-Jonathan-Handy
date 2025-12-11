@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cornd\\Documents\\ET 388 Labs\\Final Project\\Final Project\\",
+  "WorkspaceRootPath": "C:\\Users\\cornd\\Documents\\GitHub\\Final-Project-Jonathan-Handy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A0BC8-D20E-45EC-BC71-139F989900A9}|Final Project.vcxproj|C:\\Users\\cornd\\Documents\\ET 388 Labs\\Final Project\\Final Project\\Final Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C9A0BC8-D20E-45EC-BC71-139F989900A9}|Final Project.vcxproj|C:\\Users\\cornd\\Documents\\GitHub\\Final-Project-Jonathan-Handy\\Final Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C9A0BC8-D20E-45EC-BC71-139F989900A9}|Final Project.vcxproj|solutionrelative:Final Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A0BC8-D20E-45EC-BC71-139F989900A9}|Final Project.vcxproj|C:\\Users\\cornd\\Documents\\ET 388 Labs\\Final Project\\Final Project\\unitlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C9A0BC8-D20E-45EC-BC71-139F989900A9}|Final Project.vcxproj|C:\\Users\\cornd\\Documents\\GitHub\\Final-Project-Jonathan-Handy\\unitlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C9A0BC8-D20E-45EC-BC71-139F989900A9}|Final Project.vcxproj|solutionrelative:unitlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "unitlist.h",
-              "DocumentMoniker": "C:\\Users\\cornd\\Documents\\ET 388 Labs\\Final Project\\Final Project\\unitlist.h",
+              "DocumentMoniker": "C:\\Users\\cornd\\Documents\\GitHub\\Final-Project-Jonathan-Handy\\unitlist.h",
               "RelativeDocumentMoniker": "unitlist.h",
-              "ToolTip": "C:\\Users\\cornd\\Documents\\ET 388 Labs\\Final Project\\Final Project\\unitlist.h",
+              "ToolTip": "C:\\Users\\cornd\\Documents\\GitHub\\Final-Project-Jonathan-Handy\\unitlist.h",
               "RelativeToolTip": "unitlist.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-23T21:39:08.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T21:39:08.832Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Final Project.cpp",
-              "DocumentMoniker": "C:\\Users\\cornd\\Documents\\ET 388 Labs\\Final Project\\Final Project\\Final Project.cpp",
+              "DocumentMoniker": "C:\\Users\\cornd\\Documents\\GitHub\\Final-Project-Jonathan-Handy\\Final Project.cpp",
               "RelativeDocumentMoniker": "Final Project.cpp",
-              "ToolTip": "C:\\Users\\cornd\\Documents\\ET 388 Labs\\Final Project\\Final Project\\Final Project.cpp",
+              "ToolTip": "C:\\Users\\cornd\\Documents\\GitHub\\Final-Project-Jonathan-Handy\\Final Project.cpp",
               "RelativeToolTip": "Final Project.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-23T21:26:03.434Z",
               "EditorCaption": ""
